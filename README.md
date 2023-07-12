@@ -15,6 +15,6 @@ Nida Sakina Aulia, lahir di Kota Bandung pada tanggal 15 Maret 2004. Pendidikan 
 
 Ruth Diana Purnamasari Sagala, lahir di Kabupaten Ciamis pada tanggal 29 Maret 2002. Pendidikan tingkat dasar di SDN 2 Sukamulya, sekolah menengah pertama di SMP Negeri 13 Kota Tasikmalaya dan melanjutkan sekolah menengah atas di SMK Bina Putera Nusantara Kota  Tasikmalaya. Saat buku ini ditulis, penulis sedang menempuh Pendidikan Perguruan Tinggi jurusan DIV Teknik Informatika di Universitas Logistik & Bisnis Internasional.
 
-![image](https://raw.githubusercontent.com/Nidasakinaa/Buku_Proyek1/main/img/Bu_Woro.png)
+![image](https://raw.githubusercontent.com/Nidasakinaa/Buku_Proyek1/main/img/Woro.png)
 
 Woro Isti Rahayu, ST.,MT lahir di Grobogan pada tanggal 15 Oktober 1979. Ia sudah menyelesikan penidikan S1 Universitas Widyatama  di bidang Teknik Informatika, serta  menyelesaikan S2 di Institut Teknik Bandung dalam di bidang Teknik Elektro
