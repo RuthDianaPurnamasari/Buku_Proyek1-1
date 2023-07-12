@@ -1,61 +1,14 @@
-# Kiaalap admin dashboard
-Free admin dashboard template
+ #Cover buku
+ [Cover Buku.docx](https://github.com/Nidasakinaa/Buku_Proyek1/files/12023657/Cover.Buku.docx)
+#Sinopsis
+"Buku ini berisikan tutorial pembuatan website atau aplikasi  pengelolaan penyewaan alat-alat catering yang mudah dipahami dan mencakup tahap pembuatan back-end hingga website atau aplikasi jadi .
 
-# Preview
+Panduan ini dibuat dengan tujuan membantu pelanggan atau costumer serta admin dalam mengelola penyewaan alat-alat catering yang dikembangkan dengan Bahasa pemrograman PHP dan menggunakan database MySQL"
 
-![Kiaalap admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/kiaalap-free-bootstrap-admin-dashboard-template.jpg)
-
-# Overview
-Kiaalap is a full-featured, multipurpose, premium bootstrap admin template built with Bootstrap 4 Framework, HTML5, CSS and JQuery.
-
-It is a fully responsive bootstrap admin template/bootstrap admin dashboard template that comes with a huge collection of reusable UI components & plugins.
-
-We believe we have covered everything you need to set up an All kind of website.If there is something that you would like to know then we are happy to help you out.
-
-# Template Features:
-
-- 50+ PAGES
-- VALID HTML5 & CSS3
-- MATERIAL DESIGN
-- RESPONSIVE LAYOUT
-- 3 HOME VERSIONS
-- NEAT, CLEAN AND SIMPLE DESIGN
-- CREATIVE AND MODERN DESIGN
-- BUILT BASED ON BOOTSTRAP 3+
-- FULLY RESPONSIVE
-- CROSS BROWSER OPTIMIZATION
-- WELL COMMENTED HTML & CSS FILES
-- GOOGLE FONTS
-- GOOGLE MAP
-- C3 AND D3 CHARTS
-- PLOT CHART
-- PEITY CHARTS
-- SPARKLINES
-- CHOSEN
-- CODEMIRROR
-- COLORPICKER
-- IMAGES CROPPER
-- DATA MAP
-- DATEPICKER
-- X-EDITABLE
-- DUAL LISTBOX
-- GOOGLE MAPS
-- ICHECK
-- RANGESLIDER
-- JVECTORMAP
-- KNOB
-- MAPAEL
-- PASSWORD METER
-- PDF VIEWER
-- TOUCHSPIN
-- JSTREE
-- LOBIBOX
-- SUMMERNOTE
-
-# Other resources:
-
-- [Bootstrap Dashboards](https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/)
-- [Angular Dashboards](https://colorlib.com/wp/angularjs-admin-templates/)
-- [Free Admin Dashboards](https://colorlib.com/wp/free-html5-admin-dashboard-templates/)
-- [Website Templates](https://colorlib.com/wp/templates/)
-- [Free WordPress Themes](https://colorlib.com/wp/free-wordpress-themes/)
+#Tentang Penulis
+![image](https://github.com/Nidasakinaa/Buku_Proyek1/assets/114220455/2a45f85e-a989-4b74-9c01-74ea4d467b7e)
+Nida Sakina Aulia, lahir di Kota Bandung pada tanggal 15 Maret 2004. Pendidikan tingkat dasar di SDN Lanuma Husein Sastranegara 3, sekolah menengah di MTs Baitul Arqom dan Sekolah menengah akhir di MA Baitul Arqom. Saat buku ini ditulis, penulis sedang menempuh Pendidikan di Perguruan Tinggi jurusan DIV Teknik Informatika di Universitas Logistik & Bisnis Internasional
+![image](https://github.com/Nidasakinaa/Buku_Proyek1/assets/114220455/c71028e0-4e8d-4bdb-86b1-cae853bb413b)
+Ruth Diana Purnamasari Sagala, lahir di Kabupaten Ciamis pada tanggal 29 Maret 2002. Pendidikan tingkat dasar di SDN 2 Sukamulya, sekolah menengah pertama di SMP Negeri 13 Kota Tasikmalaya dan melanjutkan sekolah menengah atas di SMK Bina Putera Nusantara Kota  Tasikmalaya. Saat buku ini ditulis, penulis sedang menempuh Pendidikan Perguruan Tinggi jurusan DIV Teknik Informatika di Universitas Logistik & Bisnis Internasional.
+![image](https://github.com/Nidasakinaa/Buku_Proyek1/assets/114220455/977925c9-4aa3-41b3-86ed-7b3556b7d99e)
+Woro Isti Rahayu, ST.,MT lahir di Grobogan pada tanggal 15 Oktober 1979. Ia sudah menyelesikan penidikan S1 Universitas Widyatama  di bidang Teknik Informatika, serta  menyelesaikan S2 di Institut Teknik Bandung dalam di bidang Teknik Elektro
