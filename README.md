@@ -6,7 +6,7 @@
 "Buku ini berisikan tutorial pembuatan website atau aplikasi  pengelolaan penyewaan alat-alat catering yang mudah dipahami dan mencakup tahap pembuatan back-end hingga website atau aplikasi jadi .
 Panduan ini dibuat dengan tujuan membantu pelanggan atau costumer serta admin dalam mengelola penyewaan alat-alat catering yang dikembangkan dengan Bahasa pemrograman PHP dan menggunakan database MySQL"
 
-#Tentang Penulis
+# Tentang Penulis
 
 ![image](https://github.com/Nidasakinaa/Buku_Proyek1/assets/114220455/2a45f85e-a989-4b74-9c01-74ea4d467b7e)
 
