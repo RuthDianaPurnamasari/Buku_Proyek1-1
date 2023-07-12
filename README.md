@@ -1,5 +1,5 @@
 # Cover buku
-[Cover Buku.docx](https://github.com/Nidasakinaa/Buku_Proyek1/files/12023742/Cover.Buku.docx)
+![Cover Buku.pdf](img/Cover.Buku.pdf)
 
 # Sinopsis
 "Buku ini berisikan tutorial pembuatan website atau aplikasi  pengelolaan penyewaan alat-alat catering yang mudah dipahami dan mencakup tahap pembuatan back-end hingga website atau aplikasi jadi .
