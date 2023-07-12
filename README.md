@@ -1,5 +1,5 @@
 # Tutorial Mudah Membuat Website Pengelolaan Penyewaan Alat - Alat Catering
-![Cover](Cover_Buku_1_.jpg)
+![cover logo](Cover_Buku_!_.png)
 
 # Sinopsis
 "Buku ini berisikan tutorial pembuatan website atau aplikasi  pengelolaan penyewaan alat-alat catering yang mudah dipahami dan mencakup tahap pembuatan back-end hingga website atau aplikasi jadi .
