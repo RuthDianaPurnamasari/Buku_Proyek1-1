@@ -7,7 +7,7 @@ Panduan ini dibuat dengan tujuan membantu pelanggan atau costumer serta admin da
 
 # Tentang Penulis
 
-![image](https://raw.githubusercontent.com/Nidasakinaa/Buku_Proyek1/main/img/Ruth.png)
+![image](https://github.com/bukped/Buku_Proyek1-1/blob/c12df8628308eed131c7929a4a7d0fe401ac2c86/img/ruth.png)
 
 Ruth Diana Purnamasari Sagala, lahir di Kabupaten Ciamis pada tanggal 29 Maret 2002. Pendidikan tingkat dasar di SDN 2 Sukamulya, sekolah menengah pertama di SMP Negeri 13 Kota Tasikmalaya dan melanjutkan sekolah menengah atas di SMK Bina Putera Nusantara Kota  Tasikmalaya. Saat buku ini ditulis, penulis sedang menempuh Pendidikan Perguruan Tinggi jurusan DIV Teknik Informatika di Universitas Logistik & Bisnis Internasional.
 
